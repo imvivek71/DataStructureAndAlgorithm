@@ -1,8 +1,7 @@
 """
-Before starting to any python
+Before starting python
 code we should always write introduction about that module
 for better understanding and clarity about the module/file
-
 
 # Naming convention for module writing:
 
